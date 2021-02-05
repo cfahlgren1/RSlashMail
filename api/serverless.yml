@@ -1,0 +1,10 @@
+app: rslashmail
+component: express
+name: express-starter
+
+inputs:
+  src: ./
+  env:
+    MAILCHIMP_AUDIENCE: 7b611de098
+    SERVER_PREFIX: us4
+    MAILCHIMP_API_KEY: fcd56b5f17faa0bf26679009bd7849e0
